@@ -18,3 +18,39 @@ For instructions on how to use dataset and install/compile/use sample analysis s
 - ** Affiliation**:
 - ** Contact**: d.psalgado@research.ait.ie
 
+## Keywords
+Wheelchair Simulator, Physiological response, EEG, EDA,BVP,IBI, Head movements, eye-tracking
+
+## Metholodology
+Data collected using Empatica Wristband E4, OpenFace, Mindwave and simulator was developed using Unity3d platform.
+
+## Data Quality
+Quality checks include sensor calibration, data validation, and error checking. Known limitations include missing data for some regions in the 1950s and 1960s.
+
+## Data Format
+Raw files:
+- CSV files
+- JSON files for metadata
+  
+Post-processed files:
+-  CSV files
+-  JSON files for metadata
+
+## Data Structure
+- `temperature.csv`: Daily temperature records
+- `humidity.csv`: Daily humidity records
+- `precipitation.csv`: Daily precipitation records
+- `stations.json`: Details of weather stations
+
+## Version
+- **Version 1.0** (January 10, 2024)
+
+## Access and Use Conditions
+- Open Access under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+- No commercial use without permission.
+
+## Suggested Citation
+
+## Related Publication
+
+
