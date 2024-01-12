@@ -25,7 +25,7 @@ Wheelchair Simulator, Physiological response, EEG, EDA,BVP,IBI, Head movements, 
 Data collected using Empatica Wristband E4, OpenFace, Mindwave and simulator was developed using Unity3d platform.
 
 ## Data Quality
-Quality checks include sensor calibration, data validation, and error checking. Known limitations include missing data for some regions in the 1950s and 1960s.
+Quality checks include sensor calibration, data validation, and error checking. Known limitations include missing EEG data for 3 participants
 
 ## Data Format
 Raw files:
@@ -35,18 +35,23 @@ Raw files:
 Post-processed files:
 -  CSV files
 -  JSON files for metadata
+-  TXT files for metadata
 
 ## Data Structure
-- `temperature.csv`: Daily temperature records
-- `humidity.csv`: Daily humidity records
-- `precipitation.csv`: Daily precipitation records
-- `stations.json`: Details of weather stations
+### Physiological Data 
+- `ACC.csv`: Accelerometer records
+- `BVP.csv`: Blood Volume Pressure records
+- `EDA.csv`: Electrodermal Activity records
+- `HR.csv`: Heart Rate records
+- `IBI.csv`: Interbeat Interval records
+- `TEMP.csv`: Temperature records
+- `tags.csv`: Event mark time records
+- `info.txt`: Details of csv files (metadata)
 
 ## Version
 - **Version 1.0** (January 10, 2024)
 
 ## Access and Use Conditions
-- Open Access under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 - No commercial use without permission.
 
 ## Suggested Citation
