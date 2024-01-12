@@ -38,7 +38,7 @@ Post-processed files:
 -  TXT files for metadata
 
 ## Data Structure
-### Physiological Data 
+### E4 Data 
 - `ACC.csv`: Accelerometer records
 - `BVP.csv`: Blood Volume Pressure records
 - `EDA.csv`: Electrodermal Activity records
@@ -47,6 +47,22 @@ Post-processed files:
 - `TEMP.csv`: Temperature records
 - `tags.csv`: Event mark time records
 - `info.txt`: Details of csv files (metadata)
+### LSL Data (LabStreamingData)
+- `baseline.xdf`: EEG baseline records 
+- `trial.xdf`: EEG and Simulator event marks records
+### OpenFace Data 
+- `Baseline.csv`: Facial Landmark and head pose and eye tracking baseline records
+- `OpenFace.csv`: Facial Landmark and head pose and eye tracking trial records
+- `details.txt`: summary openFace record
+### OpenVibe Data 
+- `Baseline.csv`: EEG baseline records
+- `EEG.csv`: EEG trial records
+### Unity Data 
+- `Performance.csv`: Simulator Task Performance records
+
+
+
+
 
 ## Version
 - **Version 1.0** (January 10, 2024)
