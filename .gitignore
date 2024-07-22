@@ -1,1 +1,78 @@
+# MATLAB-generated files
+*.asv
+*.autosave
+*.slxc
+*.slx#
+*.mdl#
+*.mex*
+
+# MATLAB app installation files
+*.mlappinstall
+*.mltbx
+
+# MATLAB figure files
+*.fig
+
+# MATLAB live script files backup
+*.mlx
+
+# MATLAB preferences directory
+matlabprefs.mat
+
+# MATLAB workspace variables file
+*.mat
+
+# MATLAB code files
+*.p
+*.mexa64
+*.mexmaci64
+*.mexw32
+*.mexw64
+
+# Simulink cache files
+slprj/
+*.slxc
+
+# Simulink generated code
+*_grt_rtw/
+*_ert_rtw/
+
+# Persistent storage
+*.slx
+*.mdl
+
+# Log files
+*.log
+*.out
+*.txt
+
+# Editor backup files
+*~
+*.bak
+
+# Compiled Python files
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Python virtual environment
 venv/
+.env/
+
+# Miscellaneous
+*.tmp
+*.temp
+
+venv/
+Scripts/archive/
+
