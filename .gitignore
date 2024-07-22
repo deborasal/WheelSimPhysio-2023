@@ -72,7 +72,11 @@ venv/
 # Miscellaneous
 *.tmp
 *.temp
+*.DS_Store
 
+#Folders
 venv/
 Scripts/archive/
+
+
 
