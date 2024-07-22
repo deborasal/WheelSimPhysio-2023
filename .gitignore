@@ -78,6 +78,7 @@ venv/
 venv/
 Scripts/archive/
 WheelSimAnalyzer/
+dataset/
 
 
 
