@@ -76,7 +76,7 @@ venv/
 
 #Folders
 venv/
-Scripts/archive/
+Code/archive/
 dataset/
 Paper/WheelSimAnalyzer-paper
 
