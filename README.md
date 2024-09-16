@@ -65,7 +65,7 @@ Post-processed files:
 
 
 ## Version
-- **Version 1.0** (January 10, 2024)
+- **Version 1.0** (September 10, 2024)
 
 ## Access and Use Conditions
 - No commercial use without permission.
