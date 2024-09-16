@@ -1,3 +1,6 @@
 [submodule "scripts/WheelSimAnalyser"]
 	path = scripts/WheelSimAnalyser
 	url = git@github.com:deborasal/WheelSimAnalyser.git
+[submodule "code/WheelSimAnalyser"]
+	path = code/WheelSimAnalyser
+	url = git@github.com:deborasal/WheelSimAnalyser.git
