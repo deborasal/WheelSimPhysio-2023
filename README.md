@@ -6,7 +6,7 @@ This is a repository that contains:
 
 
 # Description
-This dataset comprises 24 participants data while using a wheelchair training simulator. It includes:
+This dataset comprises 58 participants data while using a wheelchair training simulator. It includes:
 * performance metrics
 * physiological response
 * qualitative assessment
