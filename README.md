@@ -101,9 +101,6 @@ If you use the WheelSimPhysio-2023 dataset or WheelSimAnalyser tool in your work
 -->
 ---
 
-Let me know if you'd like to adjust any details!
-
-
 ## Related Publication
 
 The content presented in this project has been used in the following publications:
