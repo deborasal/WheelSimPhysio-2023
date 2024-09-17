@@ -79,6 +79,9 @@ Here's how you can add a suggested citation for the GitHub repository:
 
 ## Suggested Citation
 
+[To be added upon publication]
+
+<!--
 If you use the WheelSimPhysio-2023 dataset or WheelSimAnalyser tool in your work, please cite the following GitHub repository:
 
 **Debora Salgado.** (2024). *WheelSimPhysio-2023 and WheelSimAnalyser: A multimodal dataset and analysis tool for wheelchair training simulations*. GitHub. Available at: [https://github.com/deborasal/WheelSimPhysio-2023](https://github.com/deborasal/WheelSimPhysio-2023)
@@ -95,7 +98,7 @@ If you use the WheelSimPhysio-2023 dataset or WheelSimAnalyser tool in your work
   version = {1.0}
 }
 ```
-
+-->
 ---
 
 Let me know if you'd like to adjust any details!
