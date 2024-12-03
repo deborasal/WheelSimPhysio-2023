@@ -66,7 +66,9 @@ Post-processed files:
 - `Performance.csv`: Simulator Task Performance records
 
 ## Version
-- **Version 1.0** (September 10, 2024)
+- ** Current Version 2.0** (November 30, 2024)
+- ** Previous Version 1.0** (September 10, 2024)
+
 
 ## Access and Use Conditions
 - No commercial use without permission.
