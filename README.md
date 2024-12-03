@@ -3,7 +3,7 @@
 This is a repository that contains a multimodal dataset of Wheelchair training simulator.
 
 # Description
-This dataset comprises 24 participants data while using a wheelchair training simulator. It includes:
+This dataset comprises 58 participants data while using a wheelchair training simulator. It includes:
 * performance metrics
 * physiological response
 * qualitative assessment
@@ -65,7 +65,8 @@ Post-processed files:
 
 
 ## Version
-- **Version 1.0** (January 10, 2024)
+- **Current Version 2.0** (November 30, 2024)
+- **Previous Version 1.0** (January 10, 2024)
 
 ## Access and Use Conditions
 - No commercial use without permission.
